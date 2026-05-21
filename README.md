@@ -10,7 +10,7 @@
   <div class="container">
 
  <header>
-      <h1>Anfal Jahfa</h1>
+      <h1>Anfal Djahfa</h1>
       <p>Web Developer • UI/UX Designer • IT Student</p>
     </header>
 
