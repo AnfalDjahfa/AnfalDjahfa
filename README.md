@@ -7,7 +7,7 @@
 Welcome to my page! <br/>
 I'm <b>Anfal Djahfa</b>, a passionate <b>Web Developer</b> and third-year 
 <b>Information Technology student</b> from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> 
+
 <b>Algeria</b>.
 </p>
 
@@ -100,7 +100,7 @@ I'm <b>Anfal Djahfa</b>, a passionate <b>Web Developer</b> and third-year
 <h3>Where to find me</h3>
 
 <p>
-  <a href="[https://github.com/YOUR_USERNAME](https://github.com/AnfalDjahfa)" target="_blank">
+  <a href="https://github.com/AnfalDjahfa" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
 
@@ -108,7 +108,7 @@ I'm <b>Anfal Djahfa</b>, a passionate <b>Web Developer</b> and third-year
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="[https://discord.com/users/YOUR_ID](https://discord.com/users/1005246212498280499)" target="_blank">
+  <a href="https://discord.com/users/1005246212498280499" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
